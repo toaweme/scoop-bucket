@@ -1,0 +1,22 @@
+{
+    "version": "0.1.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/toaweme/blink/releases/download/v0.1.3/blink_0.1.3_windows_x64.zip",
+            "bin": [
+                "blink.exe"
+            ],
+            "hash": "28664301a9f2f1137f67236410ca4d5f5804da8848e9ce959654b360cddc7f5e"
+        },
+        "arm64": {
+            "url": "https://github.com/toaweme/blink/releases/download/v0.1.3/blink_0.1.3_windows_arm64.zip",
+            "bin": [
+                "blink.exe"
+            ],
+            "hash": "651ab1c4d537a2bd38a4ef906aa775dc982f26a4f204f75b1af2b617f8dcbc44"
+        }
+    },
+    "homepage": "https://github.com/toaweme/blink",
+    "license": "Apache-2.0",
+    "description": "Live-reload supervisor for local dev"
+}
