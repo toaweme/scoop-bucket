@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/toaweme/blink/releases/download/v0.3.0/blink_0.3.0_windows_x64.zip",
+            "url": "https://github.com/toaweme/blink/releases/download/v0.4.0/blink_0.4.0_windows_x64.zip",
             "bin": [
                 "blink.exe"
             ],
-            "hash": "15fc9c3534239a35a8677fa1b3ca8569eefe39fa2283dab49d05aa0748ff9cc7"
+            "hash": "42419f1432a4dc8eda539d7e345ed6cd6e7e3c2c5a3e67f98f5ac60707781430"
         },
         "arm64": {
-            "url": "https://github.com/toaweme/blink/releases/download/v0.3.0/blink_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/toaweme/blink/releases/download/v0.4.0/blink_0.4.0_windows_arm64.zip",
             "bin": [
                 "blink.exe"
             ],
-            "hash": "29569b2c26c781992b598873e7b006ffd4b70b37793d2f3a91bfa19eebc49b26"
+            "hash": "8ce76269cf568adb6b91a07b6c261fbbc42bbad57bf0ddcff8011098e29f41e2"
         }
     },
     "homepage": "https://github.com/toaweme/blink",
