@@ -1,19 +1,19 @@
 {
-    "version": "0.9.4",
+    "version": "0.9.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/toaweme/care/releases/download/v0.9.4/care_0.9.4_windows_x64.zip",
+            "url": "https://github.com/toaweme/care/releases/download/v0.9.5/care_0.9.5_windows_x64.zip",
             "bin": [
                 "care.exe"
             ],
-            "hash": "99f15d3dbb2c4f419c2906f9bf2f53bfc6d7a111fa2f7b329362cb986af5737b"
+            "hash": "02039f5c15a83342d266e1095c4a7da67eaefeb4992dee00ec6509e8f186f578"
         },
         "arm64": {
-            "url": "https://github.com/toaweme/care/releases/download/v0.9.4/care_0.9.4_windows_arm64.zip",
+            "url": "https://github.com/toaweme/care/releases/download/v0.9.5/care_0.9.5_windows_arm64.zip",
             "bin": [
                 "care.exe"
             ],
-            "hash": "bdab297714782be04b0d3107312acc50bcbc1ed2430740be026df3a58eb89728"
+            "hash": "1afecd23486f0db441c0a7e976f00782068534fe01192bd7d1a0cedf9366d73c"
         }
     },
     "homepage": "https://github.com/toaweme/care",
