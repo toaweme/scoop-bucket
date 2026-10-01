@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/toaweme/codeview/releases/download/v0.1.0/codeview_0.1.0_windows_x64.zip",
+            "bin": [
+                "codeview.exe"
+            ],
+            "hash": "0623e1f3cd387dee808811970ca0d033779a24e9af4b521742e4ddfa912b7f72"
+        },
+        "arm64": {
+            "url": "https://github.com/toaweme/codeview/releases/download/v0.1.0/codeview_0.1.0_windows_arm64.zip",
+            "bin": [
+                "codeview.exe"
+            ],
+            "hash": "2fa54d456d7d2384c3dc383008a71097021d47e6d90cf16e8ceaa2b08ef400fc"
+        }
+    },
+    "homepage": "https://github.com/toaweme/codeview",
+    "license": "Apache-2.0",
+    "description": "Read-only web UI for a folder of git repositories"
+}
