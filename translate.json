@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/awee-ai/translate-cli/releases/download/v0.1.0/translate_0.1.0_windows_x64.zip",
+            "url": "https://github.com/awee-ai/translate-cli/releases/download/v0.2.0/translate_0.2.0_windows_x64.zip",
             "bin": [
                 "translate.exe"
             ],
-            "hash": "1acd582e87dcc90e03b27de9a5cf7341e3c8a9d779bae65fd864d9b188672bbb"
+            "hash": "4c05631886a14381f31ba8fd31a5db6b9d6f18c223d8202e612f2f5af2d36762"
         },
         "arm64": {
-            "url": "https://github.com/awee-ai/translate-cli/releases/download/v0.1.0/translate_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/awee-ai/translate-cli/releases/download/v0.2.0/translate_0.2.0_windows_arm64.zip",
             "bin": [
                 "translate.exe"
             ],
-            "hash": "2c89a5f1aff24351fd89fc870dcef7b6ac99ecab661300b224ec088ffbb14e24"
+            "hash": "0115faba6904e20837397d7e4b1f80415709132492a5fe4af4448daab5117d7d"
         }
     },
     "homepage": "https://github.com/awee-ai/translate-cli",
